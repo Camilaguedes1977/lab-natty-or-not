@@ -5,11 +5,11 @@ Este projeto explora o conceito de "Extremamente Aesthetic", um mergulho profund
 
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT: Para auxílio no refinamento de texto, criação de prompts para geração de imagens e busca de ferramentas para a criação do e-book.
-IA Generativa Ideogram.ai: Para criação de imagens esteticamente harmoniosas e personalizadas.
-IA Generativa Gemini: Para auxiliar na humanização e organização do conteúdo.
-Ferramenta Vista Create: Para criação e organização do design final do e-book.
-Ferramenta Google Docs: Para humanização, sumarização e reorganização do texto.
+* IA Generativa ChatGPT: Para auxílio no refinamento de texto, criação de prompts para geração de imagens e busca de ferramentas para a criação do e-book.
+* IA Generativa Ideogram.ai: Para criação de imagens esteticamente harmoniosas e personalizadas.
+* IA Generativa Gemini: Para auxiliar na humanização e organização do conteúdo.
+* Ferramenta Vista Create: Para criação e organização do design final do e-book.
+* Ferramenta Google Docs: Para humanização, sumarização e reorganização do texto.
 
 ## 🧐 Processo de Criação
 Na criação do E-Book comecei pesquisando o conceito de Aesthetic com a ajuda do ChatGPT, o que me permitiu entender suas variações e impacto cultural. A partir disso, desenvolvi o texto inicial e o refinei com ferramentas como Google Docs e Gemini, garantindo coesão e fluidez. As imagens foram geradas no Ideogram.ai com prompts criados no ChatGPT, assegurando que cada capítulo tivesse visuais exclusivos e tematicamente consistentes. Finalmente, utilizei o Vista Create para projetar o layout do e-book, combinando texto e imagens de maneira harmoniosa e visualmente atraente
