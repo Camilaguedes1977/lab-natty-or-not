@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora o conceito de "Extremamente Aesthetic", um mergulho profundo em um universo visual que celebra a harmonia, o contraste e os detalhes. O objetivo foi criar um e-book visualmente atraente, inspirado pelas tendências Aesthetic, utilizando tecnologias de IAs Generativas e ferramentas criativas para enriquecer o conteúdo com imagens únicas e sofisticadas.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT: Para auxílio no refinamento de texto, criação de prompts para geração de imagens e busca de ferramentas para a criação do e-book.
+IA Generativa Ideogram.ai: Para criação de imagens esteticamente harmoniosas e personalizadas.
+IA Generativa Gemini: Para auxiliar na humanização e organização do conteúdo.
+Ferramenta Vista Create: Para criação e organização do design final do e-book.
+Ferramenta Google Docs: Para humanização, sumarização e reorganização do texto.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Na criação do E-Book comecei pesquisando o conceito de Aesthetic com a ajuda do ChatGPT, o que me permitiu entender suas variações e impacto cultural. A partir disso, desenvolvi o texto inicial e o refinei com ferramentas como Google Docs e Gemini, garantindo coesão e fluidez. As imagens foram geradas no Ideogram.ai com prompts criados no ChatGPT, assegurando que cada capítulo tivesse visuais exclusivos e tematicamente consistentes. Finalmente, utilizei o Vista Create para projetar o layout do e-book, combinando texto e imagens de maneira harmoniosa e visualmente atraente
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Generativas e ferramentas de design podem ser uma poderosa combinação para criar projetos educativos, inspiradores e impactantes. Ele reflete a versatilidade do conceito Aesthetic, trazendo uma experiência visual e textual cativante.
+
+[LINK DO EBOOK](./lab-natty-or-not/Extremamente_Aesthetic_Ebook.pdf)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar este e-book foi uma jornada fascinante. Trabalhar com ferramentas como o ChatGPT e o Ideogram.ai me mostrou o potencial das IAs Generativas em projetos criativos. Foi um desafio encontrar a harmonia entre texto, imagens e layout, mas o resultado final é uma expressão autêntica do conceito Aesthetic. Tive que utilizar mais de uma IA generativa para alcançar algo "Natty", tanto em texto como nas imagens.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
