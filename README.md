@@ -17,7 +17,7 @@ Na criação do E-Book comecei pesquisando o conceito de Aesthetic com a ajuda d
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Generativas e ferramentas de design podem ser uma poderosa combinação para criar projetos educativos, inspiradores e impactantes. Ele reflete a versatilidade do conceito Aesthetic, trazendo uma experiência visual e textual cativante.
 
-[LINK DO EBOOK](./lab-natty-or-not/Extremamente_Aesthetic_Ebook.pdf)
+[LINK DO EBOOK](./Extremamente_Aesthetic_Ebook.pdf)
 
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma jornada fascinante. Trabalhar com ferramentas como o ChatGPT e o Ideogram.ai me mostrou o potencial das IAs Generativas em projetos criativos. Foi um desafio encontrar a harmonia entre texto, imagens e layout, mas o resultado final é uma expressão autêntica do conceito Aesthetic. Tive que utilizar mais de uma IA generativa para alcançar algo "Natty", tanto em texto como nas imagens.
